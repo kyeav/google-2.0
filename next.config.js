@@ -4,10 +4,6 @@ module.exports = {
   images: {
     domains: ["avatars.githubusercontent.com", "www.google.co.uk"],
   },
-  env: {
-    API_KEY: "AIzaSyBwv6ApZe3UvZ1GOQx5AalutUxfYdPJTio",
-    CONTEXT_KEY: "d27d3f0ba77724212",
-  },
 };
 
 // API key -> https://developers.google.com/custom-search/v1/using_rest
